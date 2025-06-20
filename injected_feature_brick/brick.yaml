@@ -4,7 +4,7 @@ description: A Reusable mason brick for feature creation.
 
 #repository: https://github.com/
 
-version: 0.2.0
+version: 0.2.1
 
 # The following defines the environment for the current brick.
 # It includes the version of mason that the brick requires.
