@@ -5,18 +5,19 @@ A Mason brick that generates a complete feature directory structure including `p
 ---
 
 ## Generated Structure
-
-  └── {{feature_name}}/
-      ├── data/
-      │   ├── i_{{feature_name}}_repository.dart
-      │   └── {{feature_name}}_repository.dart
-      ├── cubits/{{feature_name}}_cubit/
-      │   ├── {{feature_name}}_cubit.dart
-      │   └── {{feature_name}}_state.dart
-      └── presentation/
-          ├── /screens
-          └── /widgets
-
+```
+└── {{feature_name}}/
+    ├── data/
+    │   ├── i_{{feature_name}}_repository.dart
+    │   └── {{feature_name}}_repository.dart
+    ├── cubits/
+    │   └── {{feature_name}}_cubit/
+    │       ├── {{feature_name}}_cubit.dart
+    │       └── {{feature_name}}_state.dart
+    └── presentation/
+        ├── screens/
+        └── widgets/
+```
 ---
 
 ## Features
