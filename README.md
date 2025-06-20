@@ -1,6 +1,6 @@
 # Mason Bricks
 
-This repository contains custom [Mason](https://docs.brickhub.dev/mason/overview) bricks created to make building Flutter and Dart applications easier.
+This repository contains custom [Mason](https://docs.brickhub.dev/) bricks created to make building Flutter and Dart applications easier.
 
 ## Available Bricks
 
